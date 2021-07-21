@@ -1,0 +1,2 @@
+docker run --rm -i -v "$PWD":/data latex xelatex snigdha-gupta-resume.tex
+rm -rf snigdha-gupta-resume.aux snigdha-gupta-resume.log snigdha-gupta-resume.out
