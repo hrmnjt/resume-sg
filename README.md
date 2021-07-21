@@ -1,1 +1,1 @@
-# resume-snigdha-gupta
+![resume](./snigdha-gupta-resume.jpg)
